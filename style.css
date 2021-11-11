@@ -1,0 +1,102 @@
+MOD1.2021.2 - CRIAÇÃO DE PÁGINAS RESPONSIVAS
+Dandara Nogueira e Fernando Felip
+English Quiz 
+Marlon Yuri de Jesus
+•
+4 de nov. Editado às 7 de nov.
+Desafios Inglês
+Data de entrega: 13 de nov. 22:00
+Hey devs, what's up. 
+
+
+Olá pessoal, esse é o nosso novo desafio de inglês. LEIAM COM MUITA ATENÇÃO TODAS AS INSTRUÇÕES.
+
+
+- VOCÊS DEVEM FAZER O DOWNLOAD DOS 2 ARQUIVOS ABAIXO : A FOLHA DE MARCAÇÃO index.html  e a FOLHA DE ESTILO style.css
+
+
+- DEVEM CRIAR UMA PASTA E COLOCAR OS DOIS ARQUIVOS DENTRO.
+
+
+- DEVEM INICIALIZAR O PROJETO ATRAVÉS DO TERMINAL  (code .)
+
+
+- RESPONDAM AS QUESTÕES NO PRÓPRIO CÓDIGO, QUE AGORA É DE VCS
+
+
+-  ATENÇÃO NA QUESTÃO 4. PROCUREM UMA IMAGEM DE PETISCO NA INTERNET, PODE SER A QUE VCS QUISEREM, COLOQUEM NO CÓDIGO ATRAVÉS DO URL E POSICIONEM DA MANEIRA ADEQUADA
+
+
+*********************
+ASSIM QUE TERMINADO, DEVEM ENVIAR A FOLHA DE MARCAÇÃO index.html  e a FOLHA DE ESTILO style.css  DIRETAMENTE PARA O WHATS DO PROFESSOR MARLON (21 974608778) OU PARA A FACILITADORA KARYNNE (21 98088-0758). 
+Obs: Não esqueça de mencionar seu nome e turma quando enviar.
+
+
+
+
+CASO HOUVER QUALQUER DÚVIDA EM RELAÇÃO AO ENVIO E RECEBIMENTO DOS ARQUIVOS PODEM NOS COMUNICAR DIRETAMENTE.
+
+
+BEST OF LUCK !!
+
+index.html
+HTML
+
+style.css
+Folha de estilo
+Comentários da turma
+Seus trabalhos
+Atribuído
+Comentários particulares
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://w.wallha.com/ws/6/i51Fuhep.jpg);
+}
+
+.container{
+    border: solid black;
+    background-color: white;
+    display: flex;
+}
+.first{
+    font-style: oblique;
+    font-size: 1vw;
+    border: double black;
+    height: 22vh;
+}
+.second{
+    font-style: oblique;
+    font-size: 1vw;
+    border: double black;
+    height: 22vh;
+}
+.third{
+    font-style: oblique;
+    font-size: 1vw;
+    border: double black;
+    height: 22vh;
+}
+header{
+    display: flex;
+    justify-content: center;
+    font-weight:900;
+    color:black;
+}
+.box{
+    font-size: 1vw;
+    font-weight: bolder;
+    width: 25vw;
+}
+figcaption{
+  
+    position: relative;
+    left: 200%;
+    opacity: 75%;
+ 
+}
